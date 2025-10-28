@@ -1,0 +1,9 @@
+{
+	"name": "dfforthespotifyproj",
+	"location": "westus3",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c2c124a4-5619-436f-840f-3d9c423f09dd",
+		"tenantId": "ca92071f-f342-40c7-8385-6997a60526cc"
+	}
+}
